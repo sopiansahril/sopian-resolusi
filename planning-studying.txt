@@ -1,0 +1,5 @@
+Rencana pembelajaran programming
+1. pelajari required for any path
+2. pelajari semua materi front end dev
+3. pelajari semua materi back end dev
+4. pelajaran konsisten sesuai roadmap
