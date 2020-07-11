@@ -3,12 +3,13 @@ Rencana pembelajaran programming
     #sesuai roadmap yang sudah dibuat
 2. pelajari semua materi front end dev
     #HTML, JS, CSS
-    #bootstrap
+    #Bootsrap
 
+    #framwork JS
+     - Angular
 3. pelajari semua materi back end dev
     #PHP
     #Framework
-     - Laravel
-     - CI
+     -CI
 
 4. pelajaran konsisten sesuai roadmap
